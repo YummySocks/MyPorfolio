@@ -5,13 +5,30 @@ import Page from './components/Page';
 import Footer from './components/Footer';
 
 function App() {
+  const [pages] = useState([
+    {
+      name: "about me"
+    },
+    { name: "portfolio" },
+    { name: "contact" },
+    {
+      name: "resume"
+    }
+  ]);
+
+  const [currentPage, setCurrentPage] = useState(pages[0]);
+
   return (
     <div>
       <Header>
-        <NavBar></NavBar>
+        <NavBar
+          pages={pages}
+          setCurrentPage={setCurrentPage}
+          currentPage={currentPage}
+        ></NavBar>
       </Header>
       <main>
-        <Page></Page>
+        <Page currentPage={currentPage}></Page>
       </main>
       <Footer />
     </div>
