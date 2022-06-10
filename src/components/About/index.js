@@ -6,7 +6,8 @@ function About(){
         <section className="my-5">
           <div className="my-2">
             <div className="profile-img my-5">
-            <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+            {/* <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i> */}
+            <img className="profile-pic" src={require('../../assets/images/Me.jpeg')} alt="me"></img>
             </div>
             <p>
             My name is Patrick Sutcliffe and I really enjoy coding and making new things. Started coding back when I was playing around with minecraft and then took a certification course on the full MERN stack. I am always excited to learn new things and to expand my knowledge and experience. 

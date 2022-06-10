@@ -306,6 +306,10 @@ textarea {
   text-align: center;
 }
 
+.profile-pic {
+  max-width: 300px;
+}
+
 .project {
   position: relative;
   width: 100%;
