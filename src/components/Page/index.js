@@ -1,11 +1,31 @@
 import React from "react";
 import PageContent from "../PageContent";
 import About from "../About";
-import Projs from "../Projs";
+import Portfolio from "../Portfolio";
+import Contact from "../Contact";
+import { capitalizeFirstLetter} from '../../utils/helpers'
 
 
-function Page(){
+function Page({ currentPage }) {
 
-}
-
-export default Page
+    const renderPage = () => {
+      switch (currentPage.name) {
+        case 'about me':
+          return <About />;
+        case 'portfolio':
+          return <Portfolio />;
+        case 'contact':
+          return <Contact />;
+        default:
+          return <About />;
+      }
+    };
+  
+    return (
+      <section>
+        <h2>{capitalizeFirstLetter(currentPage.name)}</h2>
+        <PageContent>{renderPage()}</PageContent>
+      </section>
+    );
+  }
+  export default Page;
