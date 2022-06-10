@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/MyPortfolio/static/js/main.96a1a241.js",
+    "main.css": "/MyPortfolio/static/css/main.a31202e4.css",
+    "main.js": "/MyPortfolio/static/js/main.9f1cb6da.js",
+    "static/media/budget-tracker.jpg": "/MyPortfolio/static/media/budget-tracker.afc55be5812c288c9288.jpg",
+    "static/media/Me.jpeg": "/MyPortfolio/static/media/Me.4556b6b1563e755aa0f0.jpeg",
+    "static/media/weather-dashboard.jpg": "/MyPortfolio/static/media/weather-dashboard.2fe31de6591e480fabb3.jpg",
+    "static/media/cover-image.jpg": "/MyPortfolio/static/media/cover-image.30c2c43a9053db14e916.jpg",
+    "static/media/password-generator.jpg": "/MyPortfolio/static/media/password-generator.90b9cb895d1cbae810ee.jpg",
+    "static/media/party-planner.jpg": "/MyPortfolio/static/media/party-planner.9a337e08f60c3e3385cb.jpg",
+    "static/media/note-taker.jpg": "/MyPortfolio/static/media/note-taker.baa07f14451d1d5edd68.jpg",
     "index.html": "/MyPortfolio/index.html",
-    "main.e6c13ad2.css.map": "/MyPortfolio/static/css/main.e6c13ad2.css.map",
-    "main.96a1a241.js.map": "/MyPortfolio/static/js/main.96a1a241.js.map"
+    "main.a31202e4.css.map": "/MyPortfolio/static/css/main.a31202e4.css.map",
+    "main.9f1cb6da.js.map": "/MyPortfolio/static/js/main.9f1cb6da.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.96a1a241.js"
+    "static/css/main.a31202e4.css",
+    "static/js/main.9f1cb6da.js"
   ]
 }
