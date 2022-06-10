@@ -1,7 +1,14 @@
 import React from "react";
+import coverImage from '../../assets/cover/cover-image.jpg'
 
-function Header(){
-
+function Header(props){
+    return (
+        <header className="flex-row space-between px-1">
+          <h1>Patrick Sutcliffe</h1>
+          <img src={coverImage} alt="space"></img>
+          {props.children}
+        </header>
+      );
 }
 
 export default Header
