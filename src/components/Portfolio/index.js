@@ -35,6 +35,12 @@ function Portfolio() {
       link: "https://budget-tracker-time.herokuapp.com/",
       repo: "https://github.com/YummySocks/Budget-Track"
     },
+    {
+      name: 'ecommerce-site',
+      description: 'React and Mongo',
+      link: "https://pump-haus-ecommerce.herokuapp.com/",
+      repo: "https://github.com/Battling-Brewers/Pump-Haus"
+    },
   ]);
 
   return (
