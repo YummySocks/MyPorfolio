@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.a31202e4.css",
-    "main.js": "/MyPortfolio/static/js/main.68f2e9d2.js",
-    "static/media/budget-tracker.jpg": "/MyPortfolio/static/media/budget-tracker.afc55be5812c288c9288.jpg",
+    "main.css": "/MyPortfolio/static/css/main.15b35f61.css",
+    "main.js": "/MyPortfolio/static/js/main.30cea1d5.js",
+    "static/media/cover-image.jpg": "/MyPortfolio/static/media/cover-image.8ee9a1545a30ae9576d7.jpg",
     "static/media/Me.jpeg": "/MyPortfolio/static/media/Me.4556b6b1563e755aa0f0.jpeg",
     "static/media/weather-dashboard.jpg": "/MyPortfolio/static/media/weather-dashboard.2fe31de6591e480fabb3.jpg",
     "static/media/ecommerce-site.jpg": "/MyPortfolio/static/media/ecommerce-site.0a88fbe7f92da596f211.jpg",
-    "static/media/cover-image.jpg": "/MyPortfolio/static/media/cover-image.30c2c43a9053db14e916.jpg",
+    "static/media/budget-tracker.jpg": "/MyPortfolio/static/media/budget-tracker.1d87d78f0764abc7e187.jpg",
     "static/media/password-generator.jpg": "/MyPortfolio/static/media/password-generator.90b9cb895d1cbae810ee.jpg",
     "static/media/party-planner.jpg": "/MyPortfolio/static/media/party-planner.9a337e08f60c3e3385cb.jpg",
     "static/media/note-taker.jpg": "/MyPortfolio/static/media/note-taker.baa07f14451d1d5edd68.jpg",
     "index.html": "/MyPortfolio/index.html",
-    "main.a31202e4.css.map": "/MyPortfolio/static/css/main.a31202e4.css.map",
-    "main.68f2e9d2.js.map": "/MyPortfolio/static/js/main.68f2e9d2.js.map"
+    "main.15b35f61.css.map": "/MyPortfolio/static/css/main.15b35f61.css.map",
+    "main.30cea1d5.js.map": "/MyPortfolio/static/js/main.30cea1d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a31202e4.css",
-    "static/js/main.68f2e9d2.js"
+    "static/css/main.15b35f61.css",
+    "static/js/main.30cea1d5.js"
   ]
 }
