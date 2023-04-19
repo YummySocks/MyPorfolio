@@ -17,24 +17,7 @@ function Portfolio() {
       link: "https://yummysocks.github.io/Java-Script-Passwords/",
       repo: "https://github.com/YummySocks/Java-Script-Passwords"
     },
-    {
-      name: 'party-planner',
-      description: 'MERN Stack app',
-      link: "https://group-event-planner.herokuapp.com",
-      repo: "https://github.com/YummySocks/event-planner"
-    },
-    {
-      name: 'note-taker',
-      description: 'Simple note taker with Express',
-      link: "https://note-taker-pds.herokuapp.com/",
-      repo: "https://github.com/YummySocks/Express-Note"
-    },
-    {
-      name: 'budget-tracker',
-      description: 'React/JavaScript/CSS',
-      link: "https://budget-tracker-time.herokuapp.com/",
-      repo: "https://github.com/YummySocks/Budget-Track"
-    },
+
     {
       name: 'ecommerce-site',
       description: 'React and Mongo',
