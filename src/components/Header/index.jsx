@@ -1,11 +1,9 @@
 import React from "react";
-import coverImage from '../../assets/cover/cover-image.jpg'
-
+import NavBar from "../NavBar";
 function Header(props){
     return (
         <header className="flex-row space-between px-1">
           <h1>Patrick Sutcliffe</h1>
-          <img src={coverImage} alt="space"></img>
           {props.children}
         </header>
       );
