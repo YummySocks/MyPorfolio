@@ -5,12 +5,7 @@ function Portfolio() {
 
 
   const [projects] = useState([
-    {
-      name: 'weather-dashboard',
-      description: 'Simple API calls',
-      link: "https://yummysocks.github.io/Weather-Or-Not/",
-      repo: "https://github.com/YummySocks/Weather-Or-Not"
-    },
+
     {
       name: 'password-generator',
       description: 'Simple Javascript',
@@ -18,12 +13,6 @@ function Portfolio() {
       repo: "https://github.com/YummySocks/Java-Script-Passwords"
     },
 
-    {
-      name: 'ecommerce-site',
-      description: 'React and Mongo',
-      link: "https://pump-haus-ecommerce.herokuapp.com/",
-      repo: "https://github.com/Battling-Brewers/Pump-Haus"
-    },
   ]);
 
   return (
